@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: FTS API - Recargas Recurrentes & Cliente Frecuente 2025
+  title: FTS API - Recargas Recurrentes & Cliente Frecuente
   version: 1.1.5
   description: |
     Versión final del contrato OpenAPI 3.0 para Tokens, Recargas Recurrentes,
